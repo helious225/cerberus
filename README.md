@@ -19,7 +19,7 @@ Implementation of various OTP algorithms
 ## Why the name?
 
 Cerberus is a creature from greek mythology; the three-headed hound of Hades, the king of the underworld.  
-He is functioning as the guard of the underworld (and he's a [very good boy](https://twitter.com/CanYouPetTheDog/status/1158818379094011905)).
+He is functioning as the guard of the underworld.
 
 ## License
 
